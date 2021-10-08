@@ -11,15 +11,10 @@ Clone repository, then:
 $ pip install -r requirements.txt
 ```
 ## Report
-My full report is 
-We strongly reccomend to see our [Report](https://colab.research.google.com/drive/1PqlzmYjh5yLe6AExqtwQBd1vPus9SbJP?usp=sharing) for a simple explaination on how to use our generator.</br>
+My full report can be found here: [Report](https://colab.research.google.com/drive/1PqlzmYjh5yLe6AExqtwQBd1vPus9SbJP?usp=sharing). The report includs: installation, imports, eda, preprocess, model training and results evaluation.
 
-## Our own 15,000,000 time series generated synthetic data
-Our data is available for the community at: [Synthetic data](https://github.com/YR234/TL-for-TSC/tree/main/synthetic%20data)
-
-## Citation
-Please cite the following manuscript when using this code: "Transfer learning in time series classification using synthetic data generation" (link will be added with acceptance)
-
+## Important note
+Along the report there are some insights I wrote. All the consideration I took (like data cleaning, etc.) was chosen due to time consideration, however many more could be done.
 
 ## Help
 For help, feel free to contact me at: rotemyar@post.bgu.ac.il
