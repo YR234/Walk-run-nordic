@@ -3,7 +3,7 @@
   <br>
   <img src="https://i.insider.com/5eea8a48f0f419386721f9e8?width=1136&format=jpeg" alt="Walk" width="500" height="500">
 </h1>
-Synthetic Time series data generator is the open source code from the the paper "Transfer learning in time series classification using synthetic data generation"
+My goal in this project is to classify if a given 4 second sample represent Walking, Running or Nordic Walking
 
 ## Install
 Clone repository, then:
