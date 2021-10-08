@@ -21,5 +21,5 @@ My full report can be found here: [Report](https://colab.research.google.com/dri
 Along the report there are some insights I wrote. All the consideration I took (like data cleaning, etc.) was chosen due to time consideration, however many more could be done.
 
 ## Help
-For help, feel free to contact me at: rotemyar@post.bgu.ac.il
+For help, feel free to contact me at: yardenrotem2@gmail.com
 
