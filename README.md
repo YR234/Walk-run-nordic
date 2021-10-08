@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Usage
-Best way to evaluate your new data is to add a "dataset.csv" file to the "data" folder. Anyway, predict function from solution excpect to get a dataframe with the same structure from here: [Data](https://drive.google.com/file/d/1rvLrLS0W4LqBtbJgMtyfFsSEEeEEEoDa/view)
+Predict function from solution excpect to get a dataframe with the same structure from here: [Data](https://drive.google.com/file/d/1rvLrLS0W4LqBtbJgMtyfFsSEEeEEEoDa/view). it will return a [#num_samples, 3 (classes)] numpy array with probabilites to each class.
 
 ## Report
 My full report can be found here: [Report](https://colab.research.google.com/drive/1PqlzmYjh5yLe6AExqtwQBd1vPus9SbJP?usp=sharing). The report includs: installation, imports, eda, preprocess, model training and results evaluation.
