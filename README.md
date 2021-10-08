@@ -13,7 +13,6 @@ $ pip install -r requirements.txt
 I'm working with python 3.9.7. </br>
 The list of requirements.txt is long for some reason. You can use my Conda env as well, using the "environment.yml" file.
 Clone repository, then: 
-</br>
 ```
 $ conda env create -f environment.yml
 ```
