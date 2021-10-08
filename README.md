@@ -1,7 +1,7 @@
 # Walking, Running or Nordic Walking - this is the question
 <h1 align="center">
   <br>
-  <img src="https://i.insider.com/5eea8a48f0f419386721f9e8?width=1136&format=jpeg" alt="Walk" width="500" height="500">
+  <img src="https://cdn2.vectorstock.com/i/1000x1000/53/36/nordic-walking-and-jogging-vector-925336.jpg" alt="Walk" width="1000" height="780">
 </h1>
 My goal in this project is to classify if a given 4 second sample represent Walking, Running or Nordic Walking
 
