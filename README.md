@@ -10,6 +10,8 @@ Clone repository, then:
 ```
 $ pip install -r requirements.txt
 ```
+I'm working with python 3.9.7
+The list of requirements.txt is long for some reason. You can use my Conda env as well:
 
 ## Usage
 Predict function from solution excpect to get a dataframe with the same structure from here: [Data](https://drive.google.com/file/d/1rvLrLS0W4LqBtbJgMtyfFsSEEeEEEoDa/view). it will return a [#num_samples, #classes] numpy array with probabilites to each class.
