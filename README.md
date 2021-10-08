@@ -18,7 +18,8 @@ Best way to evaluate your new data is to add a "dataset.csv" file to the "data" 
 My full report can be found here: [Report](https://colab.research.google.com/drive/1PqlzmYjh5yLe6AExqtwQBd1vPus9SbJP?usp=sharing). The report includs: installation, imports, eda, preprocess, model training and results evaluation.
 
 ## Important note
-Along the report there are some insights I wrote. All the consideration I took (like data cleaning, etc.) was chosen due to time consideration, however many more could be done.
+Along the report there are some insights I wrote. All the consideration I took (like data cleaning, etc.) was chosen due to time consideration, however many more could be done. </br>
+Final note: my code works a little bit slow, i'm sure that there are faster ways, but i chose the more easy one so my programming will be quick.
 
 ## Help
 For help, feel free to contact me at: yardenrotem2@gmail.com
